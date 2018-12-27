@@ -7,6 +7,8 @@
 //
 
 import UIKit
+/* Creating objects in the view controller is useful because it helos to call a method that would not load when the program is launched. Additional objects can be created as needed
+ */
 
 class ViewController: UIViewController {
 
